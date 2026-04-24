@@ -26,7 +26,6 @@ ugb_inscripcion/
 ├── crear_admin.php          # Script de un solo uso para crear usuario admin
 └── README.md                # Este archivo
 ```
-
 ---
 
 ##  Instrucciones de Instalación (XAMPP)
